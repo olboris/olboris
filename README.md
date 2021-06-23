@@ -1,7 +1,6 @@
 <h3 align=center>Hellow, world! 👋 My name is Olya</h3>
 
 I'm novice frontend developer from Moscow.
-
 Currently I'm learning HTML, CSS, JavaScript, React.js, Node.js, Webpack, MongoDB, Git. In plans to make friends with TypeScript.
 
 My passions are dogs, my cat, figure skating, jewelry.
@@ -24,9 +23,8 @@ My passions are dogs, my cat, figure skating, jewelry.
 
 #### You can reach me on:
 ***
-[Facebook](https://www.facebook.com/profile.php?id=100069726676131)
-
-[VK](https://vk.com/id6088916)
+[![Facebook](https://img.icons8.com/nolan/64/facebook-new.png)](https://www.facebook.com/profile.php?id=100069726676131)
+[![VK](https://img.icons8.com/nolan/64/vk-circled.png)](https://vk.com/id6088916)
 <!---
 olboris/olboris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
