@@ -7,13 +7,13 @@ My hobbies are dogs, my cat (look how pretty she is! -> [![Cat Instagram](https:
 
 #### My projects:
 
-![How to learn](https://github.com/olboris/how-to-learn) - It's a one-page website with descriptions of various approaches, principles and techniques of learning. There are some links to useful resources.
+[How to learn](https://github.com/olboris/how-to-learn) - It's a one-page website with descriptions of various approaches, principles and techniques of learning. There are some links to useful resources.
 
-![Russian Travel](https://github.com/olboris/russian-travel) - It's a one-page website with descriptions and photos of the main travel destinations in Russia.
+[Russian Travel](https://github.com/olboris/russian-travel) - It's a one-page website with descriptions and photos of the main travel destinations in Russia.
 
-![Mesto](https://github.com/olboris/react-mesto-api-full) - It's an application for adding/removing cards with information about places. There is an ability to authorize and register users, edit information about them. 
+[Mesto](https://github.com/olboris/react-mesto-api-full) - It's an application for adding/removing cards with information about places. There is an ability to authorize and register users, edit information about them. 
 
-![Movies explorer (frontend)](https://github.com/olboris/movies-explorer-frontend) - The application allows to search and save movies, filter the search by duration, delete a movie from the saved list. You can also register, authorize and update user data. 
+[Movies explorer (frontend)](https://github.com/olboris/movies-explorer-frontend) - The application allows to search and save movies, filter the search by duration, delete a movie from the saved list. You can also register, authorize and update user data. 
 
 #### My tools:
 ![HTML](https://img.icons8.com/nolan/48/html-filetype.png)
